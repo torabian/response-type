@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "Ali Torabi"
+  },
+  "deprecated": false,
+  "description": "This repository is a type definition based on google json styleguide. You will have some interfaces that help you to determine what your response will look like.",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "response-type",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
